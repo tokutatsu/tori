@@ -1,0 +1,20 @@
+html {
+    position: absolute;
+    bottom: 0;
+    -webkit-app-region: drag;
+    -webkit-user-select: none;
+}
+
+img {
+    -webkit-app-region: no-drag;
+}
+
+#time {
+    color: black;
+    background-color: white;
+}
+
+#comment {
+    color: darkturquoise;
+    background-color: black;
+}
